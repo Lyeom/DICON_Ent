@@ -87,5 +87,21 @@ maincharacter - 주인공의 리소스입니다.
 * maincharacter_straw - 주인공이 지푸라기를 들고 서있는 모습과 지푸라기를 들고 뛰는 모습의 리소스 ㅇ입니다.
 * maincharacter_fire_use - 주인공이 불을 제단으로 옮기는 모습의 리소스입니다.
 
+========================================
+UI - 인게임 UI입니다. 이미지 확인용폴더를 참고하시면 됩니다.
+
+* credit_button_1.png - 크레딧 텍스트 이미지입니다. 
+* credit_button_2.png - 크레딧 텍스트 이미지에 마우스를 올렸을 때 변하는 이미지 입니다.
+* credit_name.png - 크레딧페이지로 들어갔을 때 나오는 팀원들 이름입니다.
+* dialogue_1.png - UI기획서에 쓰여있는 대사 1 입니다.
+* dialogue_2.png - UI기획서에 쓰여있는 대사 2 입니다.
+* gamefinish_button_1.png - 게임종료 텍스트 이미지입니다.
+* gamefinish_button_2.png - 게임종료 텍스트 이미지에 마우스를 올렸을 때 변하는 이미지 입니다.
+* gamestart_button_1.png - 게임시작 텍스트 이미지입니다.
+* gamestart_button_2.png - 게임시작 텍스트 이미지에 마우스를 올렸을 때 변하는 이미지 입니다.
+* illust.png - 메인 일러스트입니다. 뒷배경에 배치 하면됩니다.
+* title.png - 타이틀 로고 입니다.
+* undo_button.png - 크레딧 페이지에서 메인화면으로 나가기 위한 버튼입니다.
+* opa80.png - 메인 일러스트보다 위에 있어야할 이미지 입니다. 이해가 안됐으면 이미지 확인용 폴더로 가시면됩니다. 
 
 
